@@ -7,7 +7,7 @@ LIST OF DIAGRAMS :
 1. Use Case diagram
 2. Activity diagram
 3. Class diagram
-4. Communication diagram
+4. Communication diagram 
 5. Package diagram
 6. Sequence diagram.
    
